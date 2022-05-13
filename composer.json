@@ -1,7 +1,8 @@
 {
-    "name": "tuto1902/activity",
+    "name": "tuto19088/activity",
     "type": "project",
     "minimum-stability": "dev",
+    "license": "Mit",
     "require": {},
     "autoload": {
         "psr-4": {
